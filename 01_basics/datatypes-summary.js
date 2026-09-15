@@ -25,7 +25,7 @@ console.log(id === anotherId); //false
 const heros = ["shaktiman", "naagraj", "doga"];
 let myObj = {
     name: "nikhil",
-    age: 21,
+    age: 19,
 }
 
 const myFunction = function(){
